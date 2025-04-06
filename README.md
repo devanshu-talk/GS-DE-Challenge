@@ -76,7 +76,7 @@ The ER diagram shows all tables with full column details, primary keys (PK), and
 
 The dataflow diagram illustrates the movement of data from raw ingestion through staging to the refined layer, including incremental updates.
 
-![Dataflow Diagram](diagrams/data_flow.drawio.png)
+![Dataflow Diagram](diagram/data_flow.drawio.png)
 
 
 
