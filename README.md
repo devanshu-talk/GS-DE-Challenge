@@ -12,7 +12,7 @@ It showcases a complete ETL pipeline using PySpark and Delta Lake on Databricks,
 - [Setup Instructions](#setup-instructions)
 - [Execution Instructions](#execution-instructions)
 - [Diagrams](#diagrams)
-- [Video Demonstration](#video-demonstration)
+- [Video Demonstration](video_demo/)
 
 ## Project Overview
 
