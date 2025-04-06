@@ -70,7 +70,7 @@ GS-DE-Challenge/
 
 The ER diagram shows all tables with full column details, primary keys (PK), and foreign key (FK) relationships.
 
-![ER Diagram](diagram/ER Diagram.png)
+![ER Diagram](diagram/ER_Diagram.png)
 
 ### Dataflow Diagram
 
